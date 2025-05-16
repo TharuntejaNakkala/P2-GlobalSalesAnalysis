@@ -1,1 +1,1 @@
-# -P2-GlobalSalesAnalysis
+# P2-GlobalSalesAnalysis
